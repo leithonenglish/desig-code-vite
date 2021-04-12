@@ -1,6 +1,6 @@
 
 <template>
-  <DropdownItem :opened="opened" class="search">
+  <DropdownItem :opened="opened" alignRight class="search">
     <template v-slot:toggler="{ toggle, isOpened }">
       <button :class="['button', { active: isOpened }]" @click="toggle">
         <img src="@/assets/images/icons/search.svg" alt="search" class="h-6 w-6" />
@@ -106,7 +106,7 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 ::v-deep(.dropdown) {
-    @apply left-auto right-0 w-[320px] max-w-none;
+    @apply w-[320px] max-w-none;
 
     input {
       transition-property: box-shadow background outline;

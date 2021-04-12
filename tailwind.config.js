@@ -8,12 +8,15 @@ module.exports = {
         '7-auto': 'repeat(7, auto)'
       },
       colors: {
-        'port-gore': '#19183f'
+        'port-gore': '#191842'
       },
       fontSize: {
         '15': '15px',
         'xxs': '0.6rem',
         'tiny': '0.75rem'
+      },
+      boxShadow: {
+        'white-border': 'rgba(255, 255, 255, 0.2) 0px 0px 0px 0.5px inset'
       }
     },
   },

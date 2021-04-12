@@ -14,6 +14,9 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 .hero {
-  background: rgba(0, 0, 0, 0) url("../assets/images/backgrounds/hero-background.jpg") no-repeat scroll center top / 3000px;
+  background: rgba(0, 0, 0, 0) url("../assets/images/backgrounds/hero-background.jpg") no-repeat scroll 40% -140px / 3000px;
+  @media screen and (min-width: 640px) {
+    background-position: center top;
+  }
 }
 </style>

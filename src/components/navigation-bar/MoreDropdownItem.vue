@@ -1,5 +1,5 @@
 <template>
-  <DropdownItem :opened="opened">
+  <DropdownItem :opened="opened" divider>
     <template v-slot:toggler="{ toggle, isOpened }">
       <button :class="['button', { active: isOpened }]" @click="toggle">
         <img src="@/assets/images/icons/more.svg" alt="more" class="h-6 w-6" />
@@ -40,18 +40,3 @@ export default defineComponent({
   }
 })
 </script>
-
-<style lang="scss" scoped>
-a {
-  &::after {
-    @apply bg-white bg-opacity-20;
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -2px;
-    width: 100%;
-    height: 1px;
-    transition: opacity 0.2s ease-in-out;
-  }
-}
-</style>
