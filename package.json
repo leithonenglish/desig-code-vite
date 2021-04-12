@@ -7,9 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
+    "vee-validate": "^4.3.0",
     "vue": "^3.0.5",
     "vue-router": "4",
-    "vue3-click-outside": "andymark-by/vue3-click-outside"
+    "vue3-click-outside": "andymark-by/vue3-click-outside",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.1",

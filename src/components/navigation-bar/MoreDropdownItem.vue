@@ -2,7 +2,7 @@
   <DropdownItem :opened="opened">
     <template v-slot:toggler="{ toggle, isOpened }">
       <button :class="['button', { active: isOpened }]" @click="toggle">
-        <img src="@/assets/images/more.svg" alt="more" class="h-6 w-6" />
+        <img src="@/assets/images/icons/more.svg" alt="more" class="h-6 w-6" />
       </button>
     </template>
     <router-link

@@ -11,7 +11,9 @@ module.exports = {
         'port-gore': '#19183f'
       },
       fontSize: {
-        'xxs': '0.6rem'
+        '15': '15px',
+        'xxs': '0.6rem',
+        'tiny': '0.75rem'
       }
     },
   },

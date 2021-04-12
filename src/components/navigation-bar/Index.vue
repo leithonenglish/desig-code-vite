@@ -3,7 +3,7 @@
     <div class="flex justify-between m-auto max-w-[1234px]">
       <router-link to="/" class="flex-shrink-0">
         <img
-          src="@/assets/images/logo.svg"
+          src="@/assets/images/icons/logo.svg"
           alt="logo"
           class="h-11 w-11"
         />
@@ -21,33 +21,37 @@
         </router-link>
         <MoreDropdownItem v-bind="more" />
         <SearchDropdownItem v-bind="search" :quickLinks="quickLinks" />
-        <button class="button">
-          <img src="@/assets/images/account.svg" alt="account" class="h-6 w-6" />
+        <button class="button" @click="accountOpen = true">
+          <img src="@/assets/images/icons/account.svg" alt="account" class="h-6 w-6" />
         </button>
       </nav>
     </div>
   </div>
+  <AccountModal v-if="accountOpen" @close="accountOpen = false" />
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
 import MoreDropdownItem from './MoreDropdownItem.vue';
 import SearchDropdownItem from './SearchDropdownItem.vue';
-import CoursesIcon from '@/assets/images/courses.svg';
-import TutorialsIcon from '@/assets/images/tutorials.svg';
-import LivestreamsIcon from '@/assets/images/livestreams.svg';
-import PricingIcon from '@/assets/images/pricing.svg';
-import DownloadsIcon from '@/assets/images/downloads.svg';
-import UpdatesIcon from '@/assets/images/calendar.svg';
+import AccountModal from './account/Modal.vue';
+import CoursesIcon from '@/assets/images/icons/courses.svg';
+import TutorialsIcon from '@/assets/images/icons/tutorials.svg';
+import LivestreamsIcon from '@/assets/images/icons/livestreams.svg';
+import PricingIcon from '@/assets/images/icons/pricing.svg';
+import DownloadsIcon from '@/assets/images/icons/downloads.svg';
+import UpdatesIcon from '@/assets/images/icons/calendar.svg';
 
 export default defineComponent({
   name: 'NavigationBar',
   components: {
     MoreDropdownItem,
-    SearchDropdownItem
+    SearchDropdownItem,
+    AccountModal
   },
   data() {
     return {
+      accountOpen: false,
       search: {
         opened: false,
         sugguestedLinks: [

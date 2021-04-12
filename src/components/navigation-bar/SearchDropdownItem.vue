@@ -3,13 +3,13 @@
   <DropdownItem :opened="opened" class="search">
     <template v-slot:toggler="{ toggle, isOpened }">
       <button :class="['button', { active: isOpened }]" @click="toggle">
-        <img src="@/assets/images/search.svg" alt="search" class="h-6 w-6" />
+        <img src="@/assets/images/icons/search.svg" alt="search" class="h-6 w-6" />
       </button>
     </template>
     <div class="relative h-11">
       <label class="absolute transform left-[10px] top-1/2 -translate-y-1/2">
         <img
-          src="@/assets/images/search.svg"
+          src="@/assets/images/icons/search.svg"
           alt="search"
           class="w-6 h-6"
         />
@@ -109,7 +109,7 @@ export default defineComponent({
     @apply left-auto right-0 w-[320px] max-w-none;
 
     input {
-      transition-property: box-shadow, background, outline;
+      transition-property: box-shadow background outline;
       transition-timing-function: ease-in-out;
       transition-duration: 0.2s;
       padding: 10px 42px;
