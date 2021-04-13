@@ -13,11 +13,16 @@ module.exports = {
       fontSize: {
         '15': '15px',
         '13': '13px',
+        '17': '17px',
+        '40': '40px',
         'xxs': '0.6rem',
         'tiny': '0.75rem'
       },
       boxShadow: {
         'white-border': 'rgba(255, 255, 255, 0.2) 0px 0px 0px 0.5px inset'
+      },
+      maxWidth: {
+        'screen': '1234px'
       }
     },
   },

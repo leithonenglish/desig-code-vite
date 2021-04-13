@@ -1,5 +1,5 @@
 <template>
-  <div class="navigation-bar fixed z-20 left-0 top-0 p-5 w-full sm:pt-0 sm:px-0 sm:top-[60px]">
+  <div class="navigation-bar absolute z-20 left-0 top-0 p-5 w-full sm:pt-0 sm:px-0 sm:top-[60px]">
     <div class="flex justify-between m-auto max-w-[1234px] sm:px-[30px]">
       <router-link id="logo" to="/" class="flex-shrink-0">
         <img
