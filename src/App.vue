@@ -1,7 +1,9 @@
 <template>
   <NavigationBar />
   <router-view v-slot="{ Component }">
-    <component :is="Component"></component>
+    <div class="w-full z-10">
+      <component :is="Component"></component>
+    </div>
   </router-view>
 </template>
 
