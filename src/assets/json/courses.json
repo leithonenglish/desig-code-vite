@@ -1,0 +1,3179 @@
+[
+  {
+    "name": "Motion Design in After Effects",
+    "instructor": "Daniel Nisttahuz",
+    "category": "after-effects",
+    "description": "Learn animation and motion design with After Effects",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Character Animation Part 1",
+        "duration": "21:39",
+        "description": "Design and code a web app using React, Gatsby, Contentful, Netlify and advanced CSS techniques with Styled Components"
+      },
+      {
+        "order": 2,
+        "title": "Character Animation Part 2",
+        "duration": "22:43",
+        "description": "Reset your CSS, set up your fonts and create your first React component"
+      },
+      {
+        "order": 3,
+        "title": "Title Animation",
+        "duration": "8:17",
+        "description": "Structure your Section component and install the Styled Components React library"
+      },
+      {
+        "order": 4,
+        "title": "Space Intro",
+        "duration": "17:53",
+        "description": "Set your text styles and light/dark mode themes based on your design system"
+      },
+      {
+        "order": 5,
+        "title": "Animations for Lottie",
+        "duration": "21:00",
+        "description": "Create a reusable button component and receive React props"
+      },
+      {
+        "order": 6,
+        "title": "Prototyping Part 1",
+        "duration": "25:34",
+        "description": "Learn to position and align elements in a flexible layout"
+      },
+      {
+        "order": 7,
+        "title": "Prototyping Part 2",
+        "duration": "36:24",
+        "description": "Create a beautiful mouse over interaction using CSS transform properties"
+      },
+      {
+        "order": 8,
+        "title": "Prototyping Part 3",
+        "duration": "26:10",
+        "description": "Powerful tricks to select elements, components and apply CSS filter effects"
+      }
+    ]
+  },
+  {
+    "name": "Sound Design with Cubase",
+    "description": "Introduction to Cubase, a powerful Daw (digital audio work-station) capable of creating the most complex sounds to creating scores for movies. It also has powerful vocal editing features which can create some of the most interesting vocal effects.",
+    "instructor": "Ricky Campanelli",
+    "category": "sound",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Intro to Sound Design",
+        "duration": "20:12",
+        "description": "Craft unique UI sounds for your app"
+      },
+      {
+        "order": 2,
+        "title": "Introduction to Cubase",
+        "duration": "27:41",
+        "description": "A powerful tool to create digital audio"
+      },
+      {
+        "order": 3,
+        "title": "Game Sound",
+        "duration": "21:46",
+        "description": "Creating playful sounds from scratch"
+      },
+      {
+        "order": 4,
+        "title": "UI Sound",
+        "duration": "25:27",
+        "description": "Responding to user interaction"
+      },
+      {
+        "order": 5,
+        "title": "Notification Sound",
+        "duration": "22:23",
+        "description": "Communicating via sending and receiving sounds"
+      }
+    ]
+  },
+  {
+    "name": "React Native for Designers Part 2",
+    "description": "React Native is a popular Javascript framework that builds on top of React by using native components to create a real mobile app indistinguishable from one made using Xcode or Android Studio. The main difference with native development is that you get to use CSS, hot-reload, Javascript and other familiar techniques that the Web has grown over the past decades. Most importantly, you're building for both iOS and Android using the same codebase.",
+    "instructor": "Meng To",
+    "category": "react",
+    "videos": [
+      {
+        "order": 1,
+        "title": "React Native Gestures",
+        "duration": "28:46",
+        "description": "Build a cross-platform app with gestures and a persistent login experience"
+      },
+      {
+        "order": 2,
+        "title": "Advanced Gestures",
+        "duration": "16:09",
+        "description": "Adding states, data and events to gestures"
+      },
+      {
+        "order": 3,
+        "title": "Looping the Cards",
+        "duration": "16:41",
+        "description": "Create a seamless experience with dynamic data and gestures"
+      },
+      {
+        "order": 4,
+        "title": "Animated Transition",
+        "duration": "16:36",
+        "description": "Adding a full-screen animation to the cards"
+      },
+      {
+        "order": 5,
+        "title": "Managing Gestures",
+        "duration": "22:29",
+        "description": "Enabling and disabling gestures with Redux"
+      },
+      {
+        "order": 6,
+        "title": "Input and Keyboard",
+        "duration": "27:14",
+        "description": "Create a login flow with text fields and a submit event"
+      },
+      {
+        "order": 7,
+        "title": "Lottie Animation Files",
+        "duration": "21:23",
+        "description": "Use JSON assets for success and loading animations"
+      },
+      {
+        "order": 8,
+        "title": "Login and Alert",
+        "duration": "14:43",
+        "description": "Managing the Login modal and showing messages"
+      },
+      {
+        "order": 9,
+        "title": "Firebase Authentification",
+        "duration": "10:51",
+        "description": "Making an API connection to Firebase and dealing with the response"
+      },
+      {
+        "order": 10,
+        "title": "Persistent Data",
+        "duration": "16:27",
+        "description": "Store your data so that it persists after refresh"
+      },
+      {
+        "order": 11,
+        "title": "AsyncStorage with Redux",
+        "duration": "14:27",
+        "description": "Make your persistent data work with Redux"
+      },
+      {
+        "order": 12,
+        "title": "Publish to Android and iOS",
+        "duration": "16:22",
+        "description": "Shipping your project to the App Store"
+      }
+    ]
+  },
+  {
+    "name": "Unity for Designers",
+    "description": "If you want to make a game and don't know where to start, you are in the right place. I will teach you how to use Unity, code in C# and share essential tips and tricks to make your first game.",
+    "instructor": "Willie Yam",
+    "category": "unity",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Introduction to Unity",
+        "duration": "22:58",
+        "description": "How to make a platformer game using Unity"
+      },
+      {
+        "order": 2,
+        "title": "Map & Layers",
+        "duration": "20:13",
+        "description": "Adding an illusion of depth in the scene"
+      },
+      {
+        "order": 3,
+        "title": "Player Movement",
+        "duration": "18:12",
+        "description": "Making your player dynamic"
+      },
+      {
+        "order": 4,
+        "title": "Unity State Machine",
+        "duration": "20:24",
+        "description": "Easy animation transition between states"
+      },
+      {
+        "order": 5,
+        "title": "Unity State Machine part 2",
+        "duration": "14:38",
+        "description": "Easy animation transition between states part 2"
+      },
+      {
+        "order": 6,
+        "title": "Unity Camera",
+        "duration": "14:56",
+        "description": "Following the player and adding parallax animation"
+      },
+      {
+        "order": 7,
+        "title": "Particle System",
+        "duration": "19:43",
+        "description": "Rendering particles in your scene"
+      },
+      {
+        "order": 8,
+        "title": "Level Flow",
+        "duration": "32:47",
+        "description": "Moving from a level 1 to level 2"
+      },
+      {
+        "order": 9,
+        "title": "Scene Transition",
+        "duration": "42:30",
+        "description": "Animated Game Objects"
+      },
+      {
+        "order": 10,
+        "title": "Collectables",
+        "duration": "18:59",
+        "description": "Increasing Score"
+      },
+      {
+        "order": 11,
+        "title": "Game Session part 1",
+        "duration": "16:17",
+        "description": "Persistant Data"
+      },
+      {
+        "order": 12,
+        "title": "Game Session part 2",
+        "duration": "25:28",
+        "description": "Multiple lives before losing"
+      },
+      {
+        "order": 13,
+        "title": "Enemies part 1",
+        "duration": "16:08",
+        "description": "Animation using Spine"
+      },
+      {
+        "order": 14,
+        "title": "Enemies part 2",
+        "duration": "20:57",
+        "description": "Basic Enemy Movement"
+      },
+      {
+        "order": 15,
+        "title": "SFX",
+        "duration": "18:27",
+        "description": "Sound Effects in Game"
+      }
+    ]
+  },
+  {
+    "name": "SwiftUI for iOS 14",
+    "description": "Build a multi-platform app from scratch using the new techniques in iOS 14. We'll use the Sidebar and Lazy Grids to make the layout adaptive for iOS, iPadOS, macOS Big Sur and we'll learn the new Matched Geometry Effect to create beautiful transitions between screens without the complexity. This course is beginner-friendly and is taught step-by-step in a video format.",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Build a SwiftUI app for iOS 14",
+        "duration": "10:35",
+        "description": "Build a multi-platform app for iOS, iPadOS and Big Sur"
+      },
+      {
+        "order": 2,
+        "title": "SwiftUI Visual Editor",
+        "duration": "14:14",
+        "description": "Learn Xcode 12's new visual editing and inspector tools"
+      },
+      {
+        "order": 3,
+        "title": "SF Symbols and List Styles",
+        "duration": "11:10",
+        "description": "Using SF Symbols 2 and the new list styles in iOS 14"
+      },
+      {
+        "order": 4,
+        "title": "Sidebar and Label",
+        "duration": "7:06",
+        "description": "Setting up a sidebar navigation for iOS 14 and macOS"
+      },
+      {
+        "order": 5,
+        "title": "Build for macOS Big Sur",
+        "duration": "7:38",
+        "description": "Platform conditions and sidebar layout for macOS Big Sur app"
+      },
+      {
+        "order": 6,
+        "title": "Toolbar and Organizing",
+        "duration": "11:11",
+        "description": "Cross-platform buttons and content for navigation, status and actions"
+      },
+      {
+        "order": 7,
+        "title": "Show View and Transitions",
+        "duration": "7:27",
+        "description": "How to transition between views using preset animations"
+      },
+      {
+        "order": 8,
+        "title": "Matched Geometry Effect",
+        "duration": "6:23",
+        "description": "Magically transition between views matching similar elements"
+      },
+      {
+        "order": 9,
+        "title": "Delay and Asymmetric Transition",
+        "duration": "6:58",
+        "description": "Insertion and Removal transition between views"
+      },
+      {
+        "order": 10,
+        "title": "Matched Cards and Static Data",
+        "duration": "8:05",
+        "description": "Tagging multiple elements with Matched Geometry Effects"
+      },
+      {
+        "order": 11,
+        "title": "Selection State and Disabled",
+        "duration": "7:35",
+        "description": "How to create unique card animations with changeable states"
+      },
+      {
+        "order": 12,
+        "title": "Lazy Grid Layout",
+        "duration": "9:10",
+        "description": "Working with iOS 14 grid layout with adaptive, fixed and repeating columns and rows"
+      },
+      {
+        "order": 13,
+        "title": "Matched Container and zIndex",
+        "duration": "9:19",
+        "description": "Create a transition with a card container using multiple ids"
+      },
+      {
+        "order": 14,
+        "title": "Passing Namespace",
+        "duration": "8:37",
+        "description": "Create a separate file for your full-screen view and pass the namespace ID"
+      },
+      {
+        "order": 15,
+        "title": "Visual Effect Blur for macOS",
+        "duration": "12:15",
+        "description": "Adding a background blur that works for iOS and macOS Big Sur"
+      },
+      {
+        "order": 16,
+        "title": "Size Class and Tab Bar",
+        "duration": "9:39",
+        "description": "Setting the Tab Bar for iPhone versus Sidebar for iPad"
+      },
+      {
+        "order": 17,
+        "title": "Navigation Link and Modal",
+        "duration": "10:51",
+        "description": "Present your content using Navigation View and Modal with a dismiss behavior"
+      },
+      {
+        "order": 18,
+        "title": "Animating Above Navigation",
+        "duration": "7:03",
+        "description": "Animate your content above the Navigation Bar and Tab Bar"
+      },
+      {
+        "order": 19,
+        "title": "Library Content and Modifiers",
+        "duration": "9:09",
+        "description": "Add reusable components and modifiers to the Library menu"
+      },
+      {
+        "order": 20,
+        "title": "Create a Widget",
+        "duration": "11:06",
+        "description": "Set up your family of widgets for iOS 14"
+      }
+    ]
+  },
+  {
+    "name": "Animating in Principle",
+    "description": "Learn how to animate interactive user interfaces from Figma to Principle. Get to design the app flow for multiple screens, interactions, and animations. At the end of the course, you will have a beautiful prototype that you can share with stakeholders.",
+    "instructor": "Daniel Nisttahuz",
+    "category": "principle",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Getting Started with Principle",
+        "duration": "15:38",
+        "description": "Working with Drivers & Events"
+      },
+      {
+        "order": 2,
+        "title": "Multiple Scrolling",
+        "duration": "14:33",
+        "description": "Horizontal and Vertical Scrolling"
+      },
+      {
+        "order": 3,
+        "title": "Working with multiple Screens",
+        "duration": "13:15",
+        "description": "Using Animate (Timeline)"
+      },
+      {
+        "order": 4,
+        "title": "Advanced Animations",
+        "duration": "7:59",
+        "description": "Using Drivers & Events to the next level"
+      },
+      {
+        "order": 5,
+        "title": "Components & Handover",
+        "duration": "9:54",
+        "description": "Integrate all your compositions and share them"
+      }
+    ]
+  },
+  {
+    "name": "Design System in Figma",
+    "description": "Learn how to use and design a collaborative and powerful design system in Figma. Design Systems provide a shared library of reusable components and guidelines and that will let you build products much faster",
+    "instructor": "Meng To",
+    "category": "figma",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Design System in Figma",
+        "duration": "10:14",
+        "description": "Complete guide to designing a site using a collaborative and powerful design system"
+      },
+      {
+        "order": 2,
+        "title": "Basic Layout and Techniques",
+        "duration": "19:49",
+        "description": "Start with the styles and design system foundation in Figma"
+      },
+      {
+        "order": 3,
+        "title": "Constraints and Adaptive Layout",
+        "duration": "15:13",
+        "description": "Make your design adapt to any screen"
+      },
+      {
+        "order": 4,
+        "title": "Styles and Team Library",
+        "duration": "22:02",
+        "description": "Rules for typography, colors and gradients in Figma"
+      },
+      {
+        "order": 5,
+        "title": "Components and Nesting",
+        "duration": "18:44",
+        "description": "Design powerful and reusable elements for your site"
+      },
+      {
+        "order": 6,
+        "title": "Booleans and Shapes",
+        "duration": "13:40",
+        "description": "Collaborate with your team with shared components"
+      },
+      {
+        "order": 7,
+        "title": "Icons and Vector Network",
+        "duration": "30:29:00",
+        "description": "Create your own vector illustrations from scratch in Figma"
+      },
+      {
+        "order": 8,
+        "title": "Export, Inspect and Code in Figma",
+        "duration": "26:03:00",
+        "description": "Communicating the design system to your developers"
+      },
+      {
+        "order": 9,
+        "title": "Multiplayer and Commenting in Figma",
+        "duration": "8:36",
+        "description": "Iterate designs and explore new ideas in a multiplayer environment"
+      },
+      {
+        "order": 10,
+        "title": "Prototyping and Interaction",
+        "duration": "11:42",
+        "description": "Quickly create an entire flow for your app design in Figma"
+      }
+    ]
+  },
+  {
+    "name": "iOS Design Handbook",
+    "description": "A complete guide to designing for iOS 14 with videos, examples and design files",
+    "instructor": "Surya Anand",
+    "category": "ios-14",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Intro to iOS 14 Design",
+        "duration": "4:13",
+        "description": "A complete guide to designing for iOS 14 with videos, examples and design files"
+      },
+      {
+        "order": 2,
+        "title": "iOS Colors",
+        "duration": "5:28",
+        "description": "Learn how to work with colors in iOS 14"
+      },
+      {
+        "order": 3,
+        "title": "Typography and Dynamic Type",
+        "duration": "5:33",
+        "description": "Learn to make the content clear and readable"
+      },
+      {
+        "order": 4,
+        "title": "Background Blur and Gradients",
+        "duration": "4:19",
+        "description": "Creating contrast between contents using blurs and apply gradients from analogous colors"
+      },
+      {
+        "order": 5,
+        "title": "Adaptive Layout",
+        "duration": "4:19",
+        "description": "Learn to make your designs adaptive to different device screen sizes and orientation"
+      },
+      {
+        "order": 6,
+        "title": "Do's and Don'ts",
+        "duration": "6:52",
+        "description": "Things to keep in mind while designing for iOS"
+      },
+      {
+        "order": 7,
+        "title": "Design for Touch",
+        "duration": "7:46",
+        "description": "Keeping your content reachable using different touch techniques"
+      },
+      {
+        "order": 8,
+        "title": "iOS Native UI Elements",
+        "duration": "8:10",
+        "description": "Learn and benefit from using Apple's UI resources"
+      },
+      {
+        "order": 9,
+        "title": "iOS Icons",
+        "duration": "3:44",
+        "description": "Learn how to find great icons and customize them"
+      },
+      {
+        "order": 10,
+        "title": "Design for iPad",
+        "duration": "8:11",
+        "description": "How bigger screens affect your design"
+      },
+      {
+        "order": 11,
+        "title": "Design the Sidebar",
+        "duration": "7:16",
+        "description": "How to design a sidebar for iPad"
+      },
+      {
+        "order": 12,
+        "title": "Design Widgets",
+        "duration": "6:31",
+        "description": "Displaying important and useful information using widgets for quick glances"
+      },
+      {
+        "order": 13,
+        "title": "Animations",
+        "duration": "5:23",
+        "description": "Good animations enhance, bad animations distract"
+      },
+      {
+        "order": 14,
+        "title": "App Clips",
+        "duration": "7:05",
+        "description": "Make use of a specific feature in your app through app clips"
+      },
+      {
+        "order": 15,
+        "title": "Design for Apple Watch",
+        "duration": "6:16",
+        "description": "Designing for people on the go"
+      },
+      {
+        "order": 16,
+        "title": "Modals",
+        "duration": "6:17",
+        "description": "Provide more focused experience by presenting your content in a temporary modal view"
+      },
+      {
+        "order": 17,
+        "title": "Onboarding",
+        "duration": "6:51",
+        "description": "Learn to design meaningful experiences with clear onboarding flows and patterns"
+      },
+      {
+        "order": 18,
+        "title": "Launch Screen",
+        "duration": "5:35",
+        "description": "Hint users about loading content through launch screens"
+      },
+      {
+        "order": 19,
+        "title": "Design for Accessibility",
+        "duration": "4:12",
+        "description": "Basic rules and system to improve app accessibility"
+      },
+      {
+        "order": 20,
+        "title": "Design for macOS Big Sur",
+        "duration": "6:31",
+        "description": "Designing an app with translucency and sidebar layout for macOS Big Sur"
+      }
+    ]
+  },
+  {
+    "name": "Flutter for Designers",
+    "description": "Flutter is a relatively new toolkit that makes it easy to build cross-platform apps that look gorgeous and is easy to use. By utilizing a platform's native components we'll build an app that can run on both iOS and Android that will look and feel like it was developed natively. Furthermore we'll see how with one single codebase, Flutter provides us with native performance, hot reload for fast development, and access to beautiful, native components.",
+    "instructor": "Sai Kambampati",
+    "category": "flutter",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Flutter for Designers",
+        "duration": "12:09",
+        "description": "Build a cross platform app for iOS and Android"
+      },
+      {
+        "order": 2,
+        "title": "Build your first Widget",
+        "duration": "11:16",
+        "description": "Build a custom UI from scratch using Widgets in Flutter"
+      },
+      {
+        "order": 3,
+        "title": "Introduction to Dart",
+        "duration": "9:56",
+        "description": "Learn the basics of programming in Dart"
+      },
+      {
+        "order": 4,
+        "title": "Classes in Dart",
+        "duration": "10:32",
+        "description": "Develop sidebar items with the help of classes"
+      },
+      {
+        "order": 5,
+        "title": "Building a Full Screen Widget",
+        "duration": "12:40",
+        "description": "Working on the sidebar using Column, Spacer, and CircleAvatar widgets"
+      },
+      {
+        "order": 6,
+        "title": "Building a Card Widget",
+        "duration": "15:03",
+        "description": "Build a beautiful UI component using layout techniques"
+      },
+      {
+        "order": 7,
+        "title": "Detecting Tap Gestures",
+        "duration": "12:03",
+        "description": "Make your app responsive by detecting tap gestures and tracking text entered into text fields"
+      },
+      {
+        "order": 8,
+        "title": "Stateful Widgets",
+        "duration": "11:32",
+        "description": "Learn to pass data between different widgets"
+      },
+      {
+        "order": 9,
+        "title": "The List View Widget",
+        "duration": "11:58",
+        "description": "Use the List View widget to create a new kind of scrollable UI"
+      },
+      {
+        "order": 10,
+        "title": "Animations in Flutter",
+        "duration": "10:54",
+        "description": "Create beautiful animations using mixins, tickers, and actions"
+      },
+      {
+        "order": 11,
+        "title": "Further Animations",
+        "duration": "10:51",
+        "description": "Pass data through animations"
+      },
+      {
+        "order": 12,
+        "title": "Flutter Packages",
+        "duration": "10:50",
+        "description": "Tap into the extensive Flutter community and add a sliding panel widget"
+      },
+      {
+        "order": 13,
+        "title": "Adding Cards to our Sliding Panel",
+        "duration": "11:57",
+        "description": "Next multiple widgets within one another"
+      },
+      {
+        "order": 14,
+        "title": "Creating Dynamic Widgets",
+        "duration": "12:07",
+        "description": "Use functions to dynamically generate widgets"
+      },
+      {
+        "order": 15,
+        "title": "Navigation in Flutter",
+        "duration": "11:52",
+        "description": "Transition between screens using routes and run platform specific code"
+      },
+      {
+        "order": 16,
+        "title": "Animations with the Hero Widget",
+        "duration": "12:34",
+        "description": "Magically transition between views using similar elements"
+      },
+      {
+        "order": 17,
+        "title": "Building the Course Screen",
+        "duration": "10:51",
+        "description": "Use a scrolling view widget to display multiple lines of text"
+      },
+      {
+        "order": 18,
+        "title": "Manually Control the Panel Widget",
+        "duration": "11:09",
+        "description": "Display our course sections screen with the help of a sliding up panel"
+      },
+      {
+        "order": 19,
+        "title": "Creating a Vertical Scrolling List",
+        "duration": "11:57",
+        "description": "Build the Course Sections Screen with a List View widget"
+      },
+      {
+        "order": 20,
+        "title": "Making the Profile Screen",
+        "duration": "11:34",
+        "description": "Utilize Navigator to Segue to the Profile Screen in our app"
+      },
+      {
+        "order": 21,
+        "title": "Populating the Profile Screen",
+        "duration": "10:32",
+        "description": "Add our name, profile picture, and badges to the Profile Screen"
+      },
+      {
+        "order": 22,
+        "title": "Utilizing Widgets across Multiple Screens",
+        "description": "Add our custom CertificateViewer widget to the Profile Screen and modify our Continue Watching Card Widget"
+      },
+      {
+        "order": 23,
+        "title": "Setting Custom App Icons",
+        "duration": "9:50",
+        "description": "Learn to set the app icon for your Flutter application in both Android and iOS"
+      }
+    ]
+  },
+  {
+    "name": "React Hooks Handbook",
+    "description": "A comprehensive guide for an overview of the React library and all its basics",
+    "instructor": "Stephanie Diep",
+    "category": "react",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Intro to React Hooks",
+        "duration": "3:39",
+        "description": "An overview of React Hooks and the frameworks you can use to build your React application blazingly fast"
+      },
+      {
+        "order": 2,
+        "title": "Create your first React app",
+        "duration": "4:23",
+        "description": "Create your first React project from the Terminal and save it on your local computer"
+      },
+      {
+        "order": 3,
+        "title": "React Component",
+        "duration": "2:54",
+        "description": "Create your first JSX component using React"
+      },
+      {
+        "order": 4,
+        "title": "Styling in React",
+        "duration": "5:06",
+        "description": "How to style your React components using inline styling, separate stylesheets or styled-components"
+      },
+      {
+        "order": 5,
+        "title": "Styles and Props",
+        "duration": "2:22",
+        "description": "Render different styles depending on different properties passed to your component"
+      },
+      {
+        "order": 6,
+        "title": "Understanding Hooks",
+        "duration": "3:21",
+        "description": "Learn about the basics of React Hooks, which introduced at React Conf 2018"
+      },
+      {
+        "order": 7,
+        "title": "useState Hook",
+        "duration": "2:54",
+        "description": "Use the useState hook to manage local state in your React component"
+      },
+      {
+        "order": 8,
+        "title": "useEffect Hook",
+        "duration": "3:41",
+        "description": "Manage with your component's lifecycle with the useEffect hook"
+      },
+      {
+        "order": 9,
+        "title": "useRef Hook",
+        "duration": "3:00",
+        "description": "Learn about the useRef hook, which replaces the JavaScript getElementById way"
+      },
+      {
+        "order": 10,
+        "title": "Props",
+        "duration": "3:11",
+        "description": "Learn about props in React to pass data from parent to child components"
+      },
+      {
+        "order": 11,
+        "title": "Conditional Rendering",
+        "duration": "4:21",
+        "description": "Render different UIs depending on different conditions and states"
+      },
+      {
+        "order": 12,
+        "title": "Load Local Data",
+        "duration": "4:04",
+        "description": "Load local JSON data into your React application"
+      },
+      {
+        "order": 13,
+        "title": "Fetch Data from an API",
+        "duration": "5:40",
+        "description": "Learn the basics of asynchronous functions and promises by fetching data from an API using fetch, useEffect and useState"
+      },
+      {
+        "order": 14,
+        "title": "Toggle a state",
+        "duration": "4:05",
+        "description": "Learn how to toggle a state from true to false and back again"
+      },
+      {
+        "order": 15,
+        "title": "useInput Hook",
+        "duration": "6:04",
+        "description": "Create a hook to get the value and the onChange event of input fields"
+      },
+      {
+        "order": 16,
+        "title": "Intro to Firebase",
+        "duration": "6:59",
+        "description": "Learn about Firebase and set it up in your React project"
+      },
+      {
+        "order": 17,
+        "title": "Firebase Auth",
+        "duration": "11:59",
+        "description": "Set up authentication in your React application using Firebase Auth"
+      },
+      {
+        "order": 18,
+        "title": "Firestore",
+        "duration": "10:51",
+        "description": "Enable Firestore as your database in your React application"
+      },
+      {
+        "order": 19,
+        "title": "Firebase Storage",
+        "duration": "6:40",
+        "description": "Enable Firebase Storage in your application to store photos or videos from users"
+      },
+      {
+        "order": 20,
+        "title": "Gatsby and React",
+        "duration": "6:44",
+        "description": "Create a static content-oriented website using React on Gatsby"
+      }
+    ]
+  },
+  {
+    "name": "UI Design for Developers",
+    "category": "design",
+    "instructor": "Meng To",
+    "description": "In this course we'll learn how to use design systems, set up break points, typography, spacing, navigation, size rules for adapting to the iPad, mobile and web versions, and different techniques that translate well from design to code.",
+    "videos": [
+      {
+        "order": 1,
+        "title": "UI Design for Developers",
+        "duration": "3:46",
+        "description": "Learn just enough visual design to be dangerous as a developer"
+      },
+      {
+        "order": 2,
+        "title": "UI Patterns and Inspiration",
+        "duration": "13:52",
+        "description": "Design from scratch using known patterns and create wireframes"
+      },
+      {
+        "order": 3,
+        "title": "Colors and Branding",
+        "duration": "12:51",
+        "description": "Create your color palette using monochromatic, analogous and complimentary colors"
+      },
+      {
+        "order": 4,
+        "title": "Gradients and Backgrounds",
+        "duration": "10:10",
+        "description": "Design backgrounds from simple shapes and apply gradients from analogous colors"
+      },
+      {
+        "order": 5,
+        "title": "Stroke and Blobs",
+        "duration": "12:55",
+        "description": "Customize the stroke and generate new designs with Looper"
+      },
+      {
+        "order": 6,
+        "title": "Illustrations and Mockups",
+        "duration": "9:37",
+        "description": "Elevate your presentation with mockups and illustrations"
+      },
+      {
+        "order": 7,
+        "title": "Typography and Accessibility",
+        "duration": "9:18",
+        "description": "Basic rules and system for type design for maximum legibility"
+      },
+      {
+        "order": 8,
+        "title": "Text Styles and Buttons",
+        "duration": "8:57",
+        "description": "Set consistent font styles and create buttons with auto layout"
+      },
+      {
+        "order": 9,
+        "title": "Grid and Spacing",
+        "duration": "8:46",
+        "description": "Learn about layout grid, rulers and auto layout spacing"
+      },
+      {
+        "order": 10,
+        "title": "Navigation and Components",
+        "duration": "10:55",
+        "description": "Create reusable UI elements across multiple screens"
+      },
+      {
+        "order": 11,
+        "title": "Visual Hierarchy and Depth",
+        "duration": "12:12",
+        "description": "Apply colors, shadows and background blur to give priority and increase clarity"
+      },
+      {
+        "order": 12,
+        "title": "Cards and Content",
+        "duration": "12:54",
+        "description": "Design the content using a flexible card UI"
+      },
+      {
+        "order": 13,
+        "title": "Flexible List Layout",
+        "duration": "12:47",
+        "description": "Create list rows and columns that are flexible and reusable"
+      },
+      {
+        "order": 14,
+        "title": "Icons and Customizations",
+        "duration": "13:46",
+        "description": "Customize complex icons and font icons like SF Symbols"
+      },
+      {
+        "order": 15,
+        "title": "Vectors and Booleans",
+        "duration": "15:00",
+        "description": "Create icons from scratch using the shape and drawing tools"
+      },
+      {
+        "order": 16,
+        "title": "Design Transformations",
+        "duration": "11:24",
+        "description": "Quickly rearrange existing components into new designs"
+      },
+      {
+        "order": 17,
+        "title": "Forms and Modals",
+        "duration": "13:35",
+        "description": "Design a sign up layout with inputs and a button"
+      },
+      {
+        "order": 18,
+        "title": "UI States and Background Blur",
+        "duration": "15:49",
+        "description": "Design button states and error messages"
+      },
+      {
+        "order": 19,
+        "title": "Success Modal and Confetti",
+        "duration": "10:29",
+        "description": "Design a floating modal with a success message and confetti"
+      },
+      {
+        "order": 20,
+        "title": "Redesign and Iterations",
+        "duration": "15:04",
+        "description": "Revisiting backgrounds, content and design system"
+      },
+      {
+        "order": 21,
+        "title": "Organizing your Layers",
+        "duration": "11:20",
+        "description": "Organizing your Layers"
+      },
+      {
+        "order": 22,
+        "title": "Pages and Nested Components",
+        "duration": "8:45",
+        "description": "Setting components inside components and creating pages"
+      }
+    ]
+  },
+  {
+    "name": "React Native for Designers",
+    "description": "React Native is a popular Javascript framework that builds on top of React by using native components to create a real mobile app indistinguishable from one made using Xcode or Android Studio. The main difference with native development is that you get to use CSS, hot-reload, Javascript and other familiar techniques that the Web has grown over the past decades. Most importantly, you're building for both iOS and Android using the same codebase.",
+    "instructor": "Meng To",
+    "category": "react",
+    "videos": [
+      {
+        "order": 1,
+        "title": "React Native for Designers",
+        "duration": "24:10",
+        "description": "Build an iOS and Android app from scratch"
+      },
+      {
+        "order": 2,
+        "title": "Styled Components in React Native",
+        "duration": "30:30",
+        "description": "Basic styling in React Native"
+      },
+      {
+        "order": 3,
+        "title": "Props and Icons",
+        "duration": "25:54",
+        "description": "Create components that can receive properties"
+      },
+      {
+        "order": 4,
+        "title": "Static Data and Loop",
+        "duration": "33:29",
+        "description": "Create a list of items using data"
+      },
+      {
+        "order": 5,
+        "title": "States and Animations",
+        "duration": "32:10",
+        "description": "Animate your user interface with states"
+      },
+      {
+        "order": 6,
+        "title": "Redux",
+        "duration": "37:32",
+        "description": "Manage states across multiple components"
+      },
+      {
+        "order": 7,
+        "title": "Fetch API Data",
+        "duration": "21:48",
+        "description": "Working with data from popular APIs"
+      },
+      {
+        "order": 8,
+        "title": "Screens and Navigation",
+        "duration": "28:25",
+        "description": "Connecting multiple screens to create a seamless navigation"
+      },
+      {
+        "order": 9,
+        "title": "Passing Data in React Native",
+        "duration": "17:28",
+        "description": "Sending data from a screen to another"
+      },
+      {
+        "order": 10,
+        "title": "GraphQL and Contentful",
+        "duration": "23:22",
+        "description": "Dynamic data and queries from a content management system"
+      },
+      {
+        "order": 11,
+        "title": "HTML and Markdown",
+        "duration": "25:57",
+        "description": "Working with a Web View to render HTML code and Markdown"
+      },
+      {
+        "order": 12,
+        "title": "Adapting for iPad and Android",
+        "duration": "22:07",
+        "description": "Working with the differences between Android and iOS"
+      }
+    ]
+  },
+  {
+    "name": "Learn Swift",
+    "description": "Learn Swift a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV and Apple Watch",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Learn Swift 4",
+        "duration": "",
+        "description": "Design and Code an iOS 11 app from scratch"
+      },
+      {
+        "order": 2,
+        "title": "Introduction to Xcode 9",
+        "duration": "11:40",
+        "description": "Create your first Xcode Project"
+      },
+      {
+        "order": 3,
+        "title": "Introduction to Storyboard",
+        "duration": "5:27",
+        "description": "Visual Editor for editing your user interface"
+      },
+      {
+        "order": 4,
+        "title": "Quick Prototyping in Xcode",
+        "duration": "11:30",
+        "description": "Your app flow in Xcode"
+      },
+      {
+        "order": 5,
+        "title": "Swift 4 Playground",
+        "duration": "21:32",
+        "description": "Learn the basics of Swift 4"
+      },
+      {
+        "order": 6,
+        "title": "Design in Playground",
+        "duration": "19:28",
+        "description": "Design and code UI in Swift Playground"
+      },
+      {
+        "order": 7,
+        "title": "Animate in Playground",
+        "duration": "29:42",
+        "description": "Prototyping animations with Swift 4"
+      },
+      {
+        "order": 8,
+        "title": "Design in Storyboard",
+        "duration": "15:08",
+        "description": "Implementing your own designs"
+      },
+      {
+        "order": 9,
+        "title": "Auto Layout",
+        "duration": "17:28",
+        "description": "Auto Layout, Stack Views and Size Classes for adapting your layout in Xcode 9"
+      },
+      {
+        "order": 10,
+        "title": "Adapting for iPhone X",
+        "duration": "13:46",
+        "description": "Designing with Safe Area Layout Guides in mind"
+      },
+      {
+        "order": 11,
+        "title": "Storyboard and Code",
+        "duration": "12:30",
+        "description": "Start coding the UI"
+      },
+      {
+        "order": 12,
+        "title": "Parallax Animation using Scroll",
+        "duration": "9:12",
+        "description": "Make scrolling more fun and delightful"
+      },
+      {
+        "order": 13,
+        "title": "Collection View and Data Source",
+        "duration": "12:01",
+        "description": "The most flexible and dynamic layout for iOS"
+      },
+      {
+        "order": 14,
+        "title": "Static Data and Reusable Cells",
+        "duration": "8:07",
+        "description": "Filling your reusable cells with data"
+      },
+      {
+        "order": 15,
+        "title": "3D Animation using Scroll",
+        "duration": "17:12",
+        "description": "Create a parallax animation that uses 3D transforms"
+      },
+      {
+        "order": 16,
+        "title": "Container View",
+        "duration": "20:36",
+        "description": "Simplify your workflow child view controllers"
+      },
+      {
+        "order": 17,
+        "title": "Passing Data",
+        "duration": "21:30",
+        "description": "Send data from one view controller to another"
+      },
+      {
+        "order": 18,
+        "title": "Status Bar",
+        "duration": "12:30",
+        "description": "Mastering an element that is present in virtually every screen"
+      },
+      {
+        "order": 19,
+        "title": "Storyboard in Playground",
+        "duration": "24:33",
+        "description": "An in-depth look at Storyboard and the view hierarchy"
+      }
+    ]
+  },
+  {
+    "name": "Create a SpriteKit Game",
+    "description": "Overview of SpriteKit a powerful 2D sprite-based framework for games development from Apple and learn how to create your very own platform",
+    "instructor":"Willie Yam",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Introduction to SpriteKit",
+        "duration": "10:26",
+        "description": "Creating your first iPhone platformer game"
+      },
+      {
+        "order": 2,
+        "title": "Joystick Controls",
+        "duration": "21:03",
+        "description": "Working with controls to move your player"
+      },
+      {
+        "order": 3,
+        "title": "Player State Machine",
+        "duration": "21:35",
+        "description": "Using GameplayKit to manage the different statuses and animations"
+      },
+      {
+        "order": 4,
+        "title": "Camera Work",
+        "duration": "19:28",
+        "description": "Following the player and adding a background parallax"
+      },
+      {
+        "order": 5,
+        "title": "Collisions and Masks",
+        "duration": "12:19",
+        "description": "Applying physics properties to an object"
+      },
+      {
+        "order": 6,
+        "title": "Collisions and Masks Part 2",
+        "duration": "21:00",
+        "description": "Generating an unpredictable event"
+      },
+      {
+        "order": 7,
+        "title": "Scoring System",
+        "duration": "12:32",
+        "description": "Being able to count an abstract quantity in a game"
+      },
+      {
+        "order": 8,
+        "title": "Life System",
+        "duration": "29:53",
+        "description": "Getting injured multiple times before dying"
+      },
+      {
+        "order": 9,
+        "title": "Leveling Up and Game Sounds",
+        "duration": "28:22",
+        "description": "How to switch between scenes and sounds effects"
+      }
+    ]
+  },
+  {
+    "name": "Create a Sketch Plugin",
+    "description": "Overview of the Sketch Developer Portal by making you workflow even more productive using the plugin API",
+    "instructor": "Tiago Mergulhão",
+    "category": "sketch",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Sketch Plugin Project",
+        "duration": "16:42",
+        "description": "Sketch Plugin Environment and the Package Manager"
+      },
+      {
+        "order": 2,
+        "title": "Angle Class",
+        "duration": "20:04",
+        "description": "Using a Prototype to Reuse Code"
+      },
+      {
+        "order": 3,
+        "title": "Prototyping Perspective",
+        "duration": "7:25",
+        "description": "Using Core Image to Prototype the Transform"
+      },
+      {
+        "order": 4,
+        "title": "Apply Mockup",
+        "duration": "17:15",
+        "description": "Apply Perspective to an Artboard"
+      },
+      {
+        "order": 5,
+        "title": "Rotation and Mirror",
+        "duration": "24:51",
+        "description": "Generate Stateful Commands"
+      },
+      {
+        "order": 6,
+        "title": "Working with Symbols",
+        "duration": "13:35",
+        "description": "Investigating Sketch Classes"
+      },
+      {
+        "order": 7,
+        "title": "Dialog and Selections",
+        "duration": "31:10",
+        "description": "Building a Cocoa UI to Handle Multi-Selection"
+      }
+    ]
+  },
+  {
+    "name": "Vue for Designers",
+    "description": "Learn how to build a web app and admin dashboard using your own data on the web. Create stunning charts, delightful animations, and powerful administrative commands. Use advanced techniques to achieve dark mode and a complete login system.",
+    "instructor": "Thomas Wang",
+    "category": "vue",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Intro to Vue.js",
+        "duration": "7:52",
+        "description": "Learn to Create an Admin Dashboard using Vue"
+      },
+      {
+        "order": 2,
+        "title": "Global Styling with Sass",
+        "duration": "23:18",
+        "description": "Use Sass to supercharge your CSS"
+      },
+      {
+        "order": 3,
+        "title": "Single File Components",
+        "duration": "28:27",
+        "description": "Work with components, props, and page routing"
+      },
+      {
+        "order": 4,
+        "title": "Dark Mode Part 1",
+        "duration": "20:35",
+        "description": "Switch from light and dark mode with component state"
+      },
+      {
+        "order": 5,
+        "title": "Dark Mode Part 2",
+        "duration": "18:54",
+        "description": "Bring light and dark mode to your entire app with VueX"
+      },
+      {
+        "order": 6,
+        "title": "Animations and transitions",
+        "duration": "35:02",
+        "description": "Create easy effects on elements and components"
+      },
+      {
+        "order": 7,
+        "title": "Accounts with Netlify",
+        "duration": "35:29",
+        "description": "Deploy your site and set up sign in flow"
+      },
+      {
+        "order": 8,
+        "title": "Accounts with Slack",
+        "duration": "18:07",
+        "description": "Reset password and request account access using Slack API"
+      },
+      {
+        "order": 9,
+        "title": "Charts and Data Visualization",
+        "duration": "40:27",
+        "description": "Add data and visualize it with Apex Charts and Google Data Studio"
+      },
+      {
+        "order": 10,
+        "title": "Database with Firestore",
+        "duration": "21:36",
+        "description": "Connect your app to a database"
+      },
+      {
+        "order": 11,
+        "title": "Lambda Functions with Netlify",
+        "duration": "22:05",
+        "description": "Manage users with a serverless backend"
+      }
+    ]
+  },
+  {
+    "name": "Build an app with SwiftUI Part 3",
+    "description": "This course was written for designers and developers who are passionate about design and about building real apps for iOS, iPadOS, macOS, tvOS and watchOS. SwiftUI works across all of those platforms. While the code is not a one-size-fits-all, the controls and techniques involved can apply to all platforms. It is beginner-friendly, but it is also packed with design tricks and cool workflows about building the best UIs and interactions.",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Neumorphic Buttons",
+        "duration": "16:37",
+        "description": "Create inner shadows with background color layers"
+      },
+      {
+        "order": 2,
+        "title": "Long Press Gesture",
+        "duration": "14:05",
+        "description": "Detect a long press gesture and animate a button"
+      },
+      {
+        "order": 3,
+        "title": "Circle Button Animation",
+        "duration": "15:27",
+        "description": "Create an icon animation and apply inner shadows using strokes"
+      },
+      {
+        "order": 4,
+        "title": "Tap Progress Animation",
+        "duration": "12:43",
+        "description": "Create an animation based on the duration of the long press gesture"
+      },
+      {
+        "order": 5,
+        "title": "Haptic Feedback",
+        "duration": "5:35",
+        "description": "Apply different strengths of haptic feedback to your interactions"
+      },
+      {
+        "order": 6,
+        "title": "Login and Variable Font Size",
+        "duration": "12:01",
+        "description": "Create a basic login layout and apply font size based on width"
+      },
+      {
+        "order": 7,
+        "title": "3D Parallax and Looping Animation",
+        "duration": "9:48",
+        "description": "Create a 3D parallax effect based on the drag position"
+      },
+      {
+        "order": 8,
+        "title": "TextField and Password",
+        "duration": "11:24",
+        "description": "Create a form with an email textfield and password securefield"
+      },
+      {
+        "order": 9,
+        "title": "Keyboard and Alerts",
+        "duration": "11:15",
+        "description": "Learn to center the screen and show alerts for your form"
+      },
+      {
+        "order": 10,
+        "title": "Lottie Loading Animation",
+        "duration": "12:56",
+        "description": "Add animated assets to your SwiftUI app"
+      },
+      {
+        "order": 11,
+        "title": "Success Sequence Animation",
+        "duration": "11:26",
+        "description": "Create an animated post-login screen with Lottie assets"
+      },
+      {
+        "order": 12,
+        "title": "Login with Firebase",
+        "duration": "13:44",
+        "description": "Implement Firebase Auth and Cocoapods to your SwiftUI project"
+      },
+      {
+        "order": 13,
+        "title": "Login Environment Object",
+        "duration": "8:22",
+        "description": "Save user states on an app level and build a full login experience"
+      },
+      {
+        "order": 14,
+        "title": "Persistent Login with UserDefaults",
+        "duration": "7:34",
+        "description": "Make users logged even after they close the app"
+      },
+      {
+        "order": 15,
+        "title": "Adapting for iPad",
+        "duration": "14:29",
+        "description": "Making your layout work for larger screens, iPhone SE and Slide Over"
+      },
+      {
+        "order": 16,
+        "title": "Environment Size Class",
+        "duration": "15:28",
+        "description": "Apply styles based on groups of screen sizes"
+      },
+      {
+        "order": 17,
+        "title": "Fixing the UI and Animation",
+        "duration": "11:56",
+        "description": "Adapting for multiple screens and fixing the animation for Safe Area and ScrollView"
+      },
+      {
+        "order": 18,
+        "title": "TabBar Below Views",
+        "duration": "9:11",
+        "description": "Showing content and modals on top of the Tab Bar"
+      },
+      {
+        "order": 19,
+        "title": "Scrollable Card Content",
+        "duration": "19:49",
+        "description": "Make the animated cards UI content scrollable"
+      },
+      {
+        "order": 20,
+        "title": "Submit to the App Store",
+        "duration": "15:19",
+        "description": "Step-by-step guide for publishing your app to the App Store"
+      }
+    ]
+  },
+  {
+    "name": "UI Interactions in Framer Playground",
+    "description": "Framer makes it incredibly easy to add complex user interactions inside your prototype, taking your design and code components to the next level. Playground allows you to quickly test new concepts within the all-new in-app code editor. You can combine your current app flow with new code components created in Playground.",
+    "instructor": "Meng To",
+    "category": "framer",
+    "videos": [
+      {
+        "order": 1,
+        "title": "UI Interactions in Framer Playground",
+        "duration": "17:14",
+        "description": "Create powerful animations and interactions with the Framer X code editor"
+      },
+      {
+        "order": 2,
+        "title": "Design Components with Overrides",
+        "duration": "24:34",
+        "description": "Apply the power of code to your existing designs"
+      },
+      {
+        "order": 3,
+        "title": "Animations and Page Interactions",
+        "duration": "23:03",
+        "description": "Stagger, Sequence animations and communicate between components using overrides"
+      },
+      {
+        "order": 4,
+        "title": "Build a Layout with Code Components",
+        "duration": "18:00",
+        "description": "Code a screen from scratch by importing design and code components"
+      },
+      {
+        "order": 5,
+        "title": "Customize Components with Property Controls",
+        "duration": "15:42",
+        "description": "Learn how to use props and build custom overrides such as text, color and dropdown"
+      },
+      {
+        "order": 6,
+        "title": "Tap and Animation Events",
+        "duration": "13:05",
+        "description": "Build a login experience with animation events, transitions and input"
+      },
+      {
+        "order": 7,
+        "title": "Gestures and Advanced Controls",
+        "duration": "19:34",
+        "description": "Create and animated transition that can be controlled by gestures"
+      },
+      {
+        "order": 8,
+        "title": "Drag to Dismiss and Sequence",
+        "duration": "14:07",
+        "description": "Build an interactive and animated modal with a video code component"
+      },
+      {
+        "order": 9,
+        "title": "Scrolling, Parallax and Stagger",
+        "duration": "16:21",
+        "description": "One of the interesting things you can do with your UI is to listen to gestures and scrolling events"
+      },
+      {
+        "order": 10,
+        "title": "API Data, Lottie and Web Export",
+        "duration": "21:02",
+        "description": "Create production-ready components that uses API data and export everything to Web"
+      }
+    ]
+  },
+  {
+    "name": "Build a full site in Webflow",
+    "description": "Webflow is a design tool that can build production-ready experiences without code. You can implement CSS-driven adaptive layouts, build complex interactions and deploy all in one tool. Webflow also comes with a built-in content management system (CMS) and Ecommerce for creating a purchase experience without the need of third-party tools.",
+    "instructor":"Meng To",
+    "category": "webflow",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Build a full site in Webflow",
+        "duration": "7:45",
+        "description": "Design and animate a high converting landing page with advanced interactions, payments and CMS"
+      },
+      {
+        "order": 2,
+        "title": "Getting Started with Webflow",
+        "duration": "28:15",
+        "description": "Building your first app without code with Webflow"
+      },
+      {
+        "order": 3,
+        "title": "Flex, Grid and Adaptive Layout",
+        "duration": "18:46",
+        "description": "Working with adaptive CSS layout techniques without code"
+      },
+      {
+        "order": 4,
+        "title": "Components, Nav Bar & Lightbox",
+        "duration": "15:41",
+        "description": "Use pre-built controls like Nav Bar, Tabs, Slider and Lightbox"
+      },
+      {
+        "order": 5,
+        "title": "Tabs and Customizations",
+        "duration": "19:55",
+        "description": "Create a highly customized tabbed navigation with using Components"
+      },
+      {
+        "order": 6,
+        "title": "Transitions and States",
+        "duration": "17:21",
+        "description": "Learn how to use hover interactions and states in Webflow"
+      },
+      {
+        "order": 7,
+        "title": "Animations and Interactions",
+        "duration": "20:09",
+        "description": "Create an interactive 3D effect using the Webflow Interactions"
+      },
+      {
+        "order": 8,
+        "title": "Scroll Parallax",
+        "duration": "11:41",
+        "description": "Move elements during scroll and when elements are in view"
+      },
+      {
+        "order": 9,
+        "title": "Start Animation",
+        "duration": "9:08",
+        "description": "Create a beautiful on-load animation using opacity and move"
+      },
+      {
+        "order": 10,
+        "title": "Lottie Animations",
+        "duration": "16:35",
+        "description": "Create advanced interactions using animated assets"
+      },
+      {
+        "order": 11,
+        "title": "Design with Data and CMS",
+        "duration": "12:17",
+        "description": "Loop through data from the content management system in Webflow"
+      },
+      {
+        "order": 12,
+        "title": "Symbols, Links and Pages",
+        "duration": "14:16",
+        "description": "Create powerful reusable elements across multiple pages"
+      },
+      {
+        "order": 13,
+        "title": "Forms and Submit Data",
+        "duration": "13:30",
+        "description": "Create a newsletter and login form that submits data"
+      },
+      {
+        "order": 14,
+        "title": "Ecommerce and Custom Code",
+        "duration": "13:28",
+        "description": "Build a purchase experience and embed code in Webflow"
+      }
+    ]
+  },
+  {
+    "name": "Create a Javascript Game",
+    "description": "Learn how to create a web game using Phaser 3, a popular javascript game engine. Draw a map using an editor, implement the player, make the player move, apply physics, collisions, and implement the enemies.",
+    "instructor": "Willie Yam",
+    "category": "js",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Introduction to Phaser",
+        "duration": "10:58",
+        "description": "Make your first web game with Phaser 3"
+      },
+      {
+        "order": 2,
+        "title": "Tiled",
+        "duration": "15:11",
+        "description": "Learn to make a level in a map editor"
+      },
+      {
+        "order": 3,
+        "title": "Map",
+        "duration": "13:18",
+        "description": "Learn to import a level from Tiled"
+      },
+      {
+        "order": 4,
+        "title": "Player",
+        "duration": "24:49:00",
+        "description": "Essential element in a game"
+      },
+      {
+        "order": 5,
+        "title": "Collision",
+        "duration": "10:23",
+        "description": "Applying physics in your game"
+      },
+      {
+        "order": 6,
+        "title": "Enemies",
+        "duration": "25:39:00",
+        "description": "Implementation of opponents"
+      }
+    ]
+  },
+  {
+    "name": "Build an ARKit 2 App",
+    "description": "Introduction to ARKit and learn how to make your own playground. You will be able to add models or even your own designs into the app and play with them",
+    "instructor": "Dara To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Introduction to ARKit",
+        "duration": "10:27",
+        "description": "Adding a virtual object into the real world using your device’s camera"
+      },
+      {
+        "order": 2,
+        "title": "SceneKit Scene Editor",
+        "duration": "23:01",
+        "description": "Building a 3D stage for your AR experience"
+      },
+      {
+        "order": 3,
+        "title": "Importing 3D Models",
+        "duration": "18:57",
+        "description": "Integrating your own designs into real life"
+      },
+      {
+        "order": 4,
+        "title": "Configuration for ARKit",
+        "duration": "12:43",
+        "description": "Behind the scene of your AR project"
+      },
+      {
+        "order": 5,
+        "title": "Plane Detection",
+        "duration": "25:57",
+        "description": "Searching for real world surfaces"
+      },
+      {
+        "order": 6,
+        "title": "Focus Square",
+        "duration": "29:38",
+        "description": "Choosing your preferred spot in placing your virtual objects"
+      },
+      {
+        "order": 7,
+        "title": "Adding Models to the Scene",
+        "duration": "31:36",
+        "description": "Displaying 3D contents in your environment"
+      },
+      {
+        "order": 8,
+        "title": "Image Detection",
+        "duration": "21:25",
+        "description": "How to create an illusion by scanning an image"
+      },
+      {
+        "order": 9,
+        "title": "Animation and Lighting",
+        "duration": "13:20",
+        "description": "Making an illusion realistic"
+      },
+      {
+        "order": 10,
+        "title": "Buttons and Interactions",
+        "duration": "16:04",
+        "description": "Trigger an action with a button"
+      },
+      {
+        "order": 11,
+        "title": "Multiple Screens",
+        "duration": "30:09",
+        "description": "Create grid based layout"
+      }
+    ]
+  },
+  {
+    "name": "Video Editing in ScreenFlow",
+    "description": "Learn different techniques, transitions actions and effects to edit a video using Screeflow",
+    "category": "after-effects",
+    "instructor": "Daniel Nisttahuz",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Concept and Storyboard",
+        "duration": "8:24",
+        "description": "Pre-production, how to plan your video"
+      },
+      {
+        "order": 2,
+        "title": "Screenflow Basics",
+        "duration": "17:43",
+        "description": "A quick tour of Screenflow"
+      },
+      {
+        "order": 3,
+        "title": "Adding Motion",
+        "duration": "17:01",
+        "description": "Actions, Transitions and Speed Clips"
+      },
+      {
+        "order": 4,
+        "title": "Match Cut",
+        "duration": "15:57",
+        "description": "Subtle editing techniques"
+      }
+    ]
+  },
+  {
+    "name": "SVG Animations with GreenSock",
+    "description": "Learn how to find, create, and manipulate SVG for the web. Then add the awesome JavaScript animation Library GreenSock to bring those SVG's to life. We will dive into SVG code and explore how to set up your illustrations for animating. Then we will take a look at GreenSock's animation library and many useful plugins to smoothly animate our SVGs on CodePen.",
+    "instructor": "Christina Gorton",
+    "category": "design",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Intro to SVG and GreenSock Animations",
+        "duration": "10:28",
+        "description": "Learn to Make Fun and Fast Animations"
+      },
+      {
+        "order": 2,
+        "title": "How to Create an SVG",
+        "duration": "17:29",
+        "description": "Finding, creating, or manipulating SVG for animating"
+      },
+      {
+        "order": 3,
+        "title": "Getting Started with GreenSock",
+        "duration": "12:49",
+        "description": "Exploring TweenMax"
+      },
+      {
+        "order": 4,
+        "title": "Timing Functions and Easing",
+        "duration": "6:19",
+        "description": "Create Custom Animations with GreenSock's Built in Eases"
+      },
+      {
+        "order": 5,
+        "title": "Creating Complex Animations",
+        "duration": "10:20",
+        "description": "Utilizing GreenSock's TimeLineMax"
+      },
+      {
+        "order": 6,
+        "title": "MorphSVG Plugin",
+        "duration": "11:10",
+        "description": "Smooth Animations Between Shapes"
+      },
+      {
+        "order": 7,
+        "title": "DrawSVG Plugin",
+        "duration": "18:01",
+        "description": "Smoothly Reveal and Hide Strokes"
+      },
+      {
+        "order": 8,
+        "title": "Animating Our UI",
+        "duration": "16:49",
+        "description": "Bringing it All Together"
+      },
+      {
+        "order": 9,
+        "title": "More GreenSock Plugins",
+        "duration": "12:38",
+        "description": "More Animation Choices with GreenSock Plugins"
+      }
+    ]
+  },
+  {
+    "name": "Build an app with SwiftUI Part 1",
+    "description": "This course was written for designers and developers who are passionate about design and about building real apps for iOS, iPadOS, macOS, tvOS and watchOS. SwiftUI works across all of those platforms. While the code is not a one-size-fits-all, the controls and techniques involved can apply to all platforms. It is beginner-friendly, but it is also packed with design tricks and cool workflows about building the best UIs and interactions.",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Learn SwiftUI for iOS 13",
+        "duration": "11:53",
+        "description": "Learn how to code custom UIs, animations, gestures and components in Xcode 11"
+      },
+      {
+        "order": 2,
+        "title": "Layout and Stacks",
+        "duration": "22:29",
+        "description": "Build a custom UI from scratch using layout techniques and modifiers in SwiftUI"
+      },
+      {
+        "order": 3,
+        "title": "Components and Visual Effects 2",
+        "duration": "23:50",
+        "description": "Apply transforms, blend modes, blur in SwiftUI and turn views to components"
+      },
+      {
+        "order": 4,
+        "title": "Animations and States",
+        "duration": "9:24",
+        "description": "Create beautiful animations using states, transitions and actions."
+      },
+      {
+        "order": 5,
+        "title": "Gestures and Events",
+        "duration": "10:14",
+        "description": "Make your app interactive and animated with the Drag gesture and events in SwiftUI."
+      },
+      {
+        "order": 6,
+        "title": "Timing Curve and Delay Animation",
+        "duration": "14:17",
+        "description": "Use bezier curve animation with delay and repeat values"
+      },
+      {
+        "order": 7,
+        "title": "Dismiss and Drag Anchors",
+        "duration": "14:06",
+        "description": "Snap the card to different positions using multiple conditions and operators in SwiftUI"
+      },
+      {
+        "order": 8,
+        "title": "SF Symbols and Props",
+        "duration": "13:31",
+        "description": "How to use Apple's iOS icons and pass values to components"
+      },
+      {
+        "order": 9,
+        "title": "Color Literal, Gradient and Overlay",
+        "duration": "11:55",
+        "description": "Quickly edit colors and add gradients and use the overlay modifier"
+      },
+      {
+        "order": 10,
+        "title": "Animation Between Screens",
+        "duration": "13:27",
+        "description": "Create a transition between two views"
+      },
+      {
+        "order": 11,
+        "title": "Drag Progress and Tap Background",
+        "duration": "7:45",
+        "description": "Use the drag values and use them as a progress to animate views in SwiftUI"
+      },
+      {
+        "order": 12,
+        "title": "Binding and Screen Size",
+        "duration": "8:22",
+        "description": "Bind states across multiple views and detect the screen size"
+      },
+      {
+        "order": 13,
+        "title": "ScrollView and Repeat",
+        "duration": "11:52",
+        "description": "Add a horizontal ScrollView to a list of cards in SwiftUI"
+      },
+      {
+        "order": 14,
+        "title": "Data and Image Literal",
+        "duration": "13:31",
+        "description": "Work with arrays and data models to create a loop of components in SwiftUI"
+      },
+      {
+        "order": 15,
+        "title": "3D Scroll Animation",
+        "duration": "7:39",
+        "description": "Use GeometryReader to detect the scroll position and apply 3D animations"
+      },
+      {
+        "order": 16,
+        "title": "Modal Presentation",
+        "duration": "7:03",
+        "description": "Navigate to another screen using a built-in Modal view"
+      },
+      {
+        "order": 17,
+        "title": "Navigation View and List",
+        "duration": "11:48",
+        "description": "Build a table view with navigation options and presentations in SwiftUI"
+      },
+      {
+        "order": 18,
+        "title": "Navigation Style and Passing Data",
+        "duration": "9:22",
+        "description": "Create a detail screen for your navigation list items"
+      },
+      {
+        "order": 19,
+        "title": "Combine and Edit Data",
+        "duration": "12:39",
+        "description": "Learn how to manipulate external data with built-in functions"
+      },
+      {
+        "order": 20,
+        "title": "Tab Bar and Test on Device",
+        "duration": "9:38",
+        "description": "Iterate your designs quickly with previews and test directly on your device or using the iOS simulator"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Prototyping in ProtoPie",
+    "description": "ProtoPie is a cross-platform prototyping tool that creates prototypes nearly as powerful as those made with code, with half of the efforts, and zero code. It's perfect for designers who want to quickly experiment with advanced interactions using variables, conditions, sensors and more.",
+    "instructor": "Meng To",
+    "category": "protopie",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Advanced Prototyping with ProtoPie",
+        "duration": "11:48",
+        "description": "Create high-fidelity prototypes with variables, formula, conditions and sensors"
+      },
+      {
+        "order": 2,
+        "title": "Quick Prototyping",
+        "duration": "11:46",
+        "description": "Learn the basics of ProtoPie and create a prototype for your entire app in minutes"
+      },
+      {
+        "order": 3,
+        "title": "Start Animation and Sequence",
+        "duration": "12:36",
+        "description": "Learn how to use the Start trigger, animation responses and timing"
+      },
+      {
+        "order": 4,
+        "title": "Drag and Release",
+        "duration": "9:38",
+        "description": "Use Drag, Touch Up and Touch Down to create gestures with cards"
+      },
+      {
+        "order": 5,
+        "title": "Toggle with Conditions",
+        "duration": "11:48",
+        "description": "Create multiple animation states and toggle back and forth between them"
+      },
+      {
+        "order": 6,
+        "title": "Screen Transition",
+        "duration": "12:53",
+        "description": "Create a custom transition between screens and that jumps to another scene"
+      },
+      {
+        "order": 7,
+        "title": "Pull to Dismiss",
+        "duration": "6:59",
+        "description": "Create a dismiss interaction that transitions back to a previous screen"
+      },
+      {
+        "order": 8,
+        "title": "Page Scroll Position",
+        "duration": "11:57",
+        "description": "Prototype an onboarding experience with 3 screens and use the scroll position to set the page indicator"
+      },
+      {
+        "order": 9,
+        "title": "Input and Submit",
+        "duration": "13:41",
+        "description": "Prototype a Login experience with a form, error messages and a success modal"
+      },
+      {
+        "order": 10,
+        "title": "Chain and Drag 3D",
+        "duration": "7:45",
+        "description": "Use the drag position to move and animate with perspective"
+      },
+      {
+        "order": 11,
+        "title": "Formula and Detect",
+        "duration": "16:37",
+        "description": "Use object properties, functions and type conversions to power your prototype"
+      },
+      {
+        "order": 12,
+        "title": "Range and Card Animation",
+        "duration": "15:32",
+        "description": "Detect a range of values to trigger a response and create screen transitions"
+      },
+      {
+        "order": 13,
+        "title": "Variable and Detect Mouse",
+        "duration": "12:02",
+        "description": "Store dynamic values from your mouse and create a parallax effect"
+      },
+      {
+        "order": 14,
+        "title": "Sensors and Receive",
+        "duration": "12:47",
+        "description": "Use Tilt to detect the angle on your device and Send & Receive values"
+      }
+    ]
+  },
+  {
+    "name": "Learn iOS 11 Design",
+    "description": "Learn colors, typography and layout for iOS 8",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Learn iOS 11 Design",
+        "duration": "19:45",
+        "description": "A complete guide to designing for iOS 11"
+      },
+      {
+        "order": 2,
+        "title": "Designing for iPhone X",
+        "duration": "28:39",
+        "description": "Guidelines to designing for iOS 11"
+      },
+      {
+        "order": 3,
+        "title": "Design for iPad",
+        "duration": "9:47",
+        "description": "How bigger screens affect your design"
+      },
+      {
+        "order": 4,
+        "title": "Design for Apple Watch",
+        "duration": "11:26",
+        "description": "Designing for people on the go"
+      },
+      {
+        "order": 5,
+        "title": "Learn Colors",
+        "duration": "13:35",
+        "description": "How to work with colors"
+      },
+      {
+        "order": 6,
+        "title": "Learn Typography",
+        "duration": "12:56",
+        "description": "Make the content clear and readable"
+      },
+      {
+        "order": 7,
+        "title": "Learn Animations",
+        "duration": "9:09",
+        "description": "Good animations enhance, bad animations distract"
+      },
+      {
+        "order": 8,
+        "title": "UI Icons",
+        "duration": "9:07",
+        "description": "Learn how to find great icons and customize them"
+      },
+      {
+        "order": 9,
+        "title": "UI Sounds",
+        "duration": "8:13",
+        "description": "Experience without even seeing the app"
+      },
+      {
+        "order": 10,
+        "title": "Design Inspiration",
+        "duration": "0:00",
+        "description": "How to keep yourself inspired"
+      },
+      {
+        "order": 11,
+        "title": "Design Principles",
+        "duration": "0:00",
+        "description": "Trends fade quickly, strong foundations last forever"
+      }
+    ]
+  },
+  {
+    "name": "Build a web app with React Hooks",
+    "category": "react",
+    "description": "Learn how we built the new Design+Code site with React Hooks using Gatsby, Netlify, and advanced CSS techniques with Styled Components.",
+    "instructor":"Meng To",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Build a web app with React Hooks",
+        "duration": "19:23",
+        "description": "Design and code a web app using React, Gatsby, Contentful, Netlify and advanced CSS techniques with Styled Components"
+      },
+      {
+        "order": 2,
+        "title": "CSS Styling and Best Practices",
+        "duration": "18:14",
+        "description": "Reset your CSS, set up your fonts and create your first React component"
+      },
+      {
+        "order": 3,
+        "title": "Styled Components and Section Structure",
+        "duration": "17:06",
+        "description": "Structure your Section component and install the Styled Components React library"
+      },
+      {
+        "order": 4,
+        "title": "Text Styles, Color Variables and Global Style",
+        "duration": "18:50",
+        "description": "Set your text styles and light/dark mode themes based on your design system"
+      },
+      {
+        "order": 5,
+        "title": "Button Component and Props",
+        "duration": "10:13",
+        "description": "Create a reusable button component and receive React props"
+      },
+      {
+        "order": 6,
+        "title": "CSS Grid and Position Absolute",
+        "duration": "14:53",
+        "description": "Learn to position and align elements in a flexible layout"
+      },
+      {
+        "order": 7,
+        "title": "CSS Hover, Transition and 2D Transform",
+        "duration": "11:15",
+        "description": "Create a beautiful mouse over interaction using CSS transform properties"
+      },
+      {
+        "order": 8,
+        "title": "CSS Selectors and Filter Effect",
+        "duration": "10:29",
+        "description": "Powerful tricks to select elements, components and apply CSS filter effects"
+      },
+      {
+        "order": 9,
+        "title": "Backdrop-Filter Blur",
+        "duration": "12:33",
+        "description": "Learn how to create a beautiful frosted glass effect in CSS"
+      },
+      {
+        "order": 10,
+        "title": "Perspective 3D Transforms",
+        "duration": "10:21",
+        "description": "Use CSS transform properties to apply perspective 3D effects"
+      },
+      {
+        "order": 11,
+        "title": "Static Data with Arrays",
+        "duration": "9:07",
+        "description": "Learn how to loop with the map function using arrays and objects"
+      },
+      {
+        "order": 12,
+        "title": "Grid Repeat and Data",
+        "duration": "12:05",
+        "description": "Work with your static data and apply repeatable grid columns"
+      },
+      {
+        "order": 13,
+        "title": "Styled Component Props",
+        "duration": "6:40",
+        "description": "Pass props to your Styled Components and use conditions to apply interesting effects"
+      },
+      {
+        "order": 14,
+        "title": "Toggle Menu with useState",
+        "duration": "11:12",
+        "description": "Show and hide a floating menu using React useState"
+      },
+      {
+        "order": 15,
+        "title": "Visibility and Loop Condition",
+        "duration": "10:56",
+        "description": "Apply a CSS transition on your toggle interaction and show React components based on a condition"
+      },
+      {
+        "order": 16,
+        "title": "Function Event and PreventDefault",
+        "duration": "6:36",
+        "description": "Handle the click event and prevent links from their default behavior"
+      },
+      {
+        "order": 17,
+        "title": "Wave Component and Inline Styling",
+        "duration": "12:05",
+        "description": "Create a wave background and use inline styling for quick CSS properties"
+      },
+      {
+        "order": 18,
+        "title": "CSS Keyframes Animation with Delay",
+        "duration": "11:22",
+        "description": "Create a beautiful start animation in CSS using delays"
+      },
+      {
+        "order": 19,
+        "title": "Text Gradient and Media Queries",
+        "duration": "17:27",
+        "description": "Apply a gradient to your texts and use media queries to make your layout adaptive"
+      },
+      {
+        "order": 20,
+        "title": "useEffect and Deploy to Netlify",
+        "duration": "15:51",
+        "description": "Control the lifecycle of your app and publish your site online"
+      }
+    ]
+  },
+  {
+    "name": "Design and Code in Framer X",
+    "description": "Create powerful design and code components for your app and design system. Framer X is the only design tool to allows you to create code components that can be used in a React site. Developers can truly collaborate with designers in creating consistent and production-ready components.",
+    "instructor": "Meng To",
+    "category": "framer",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Design and Code in Framer X",
+        "duration": "8:51",
+        "description": "Create powerful design and code components for your app and design system"
+      },
+      {
+        "order": 2,
+        "title": "Design Layouts and Icons",
+        "duration": "19:46",
+        "description": "Basic introduction to Framer X"
+      },
+      {
+        "order": 3,
+        "title": "Design Components and Stacks",
+        "duration": "22:43",
+        "description": "Making your Framer X layout adaptive and reusable"
+      },
+      {
+        "order": 4,
+        "title": "Quick Prototyping in Framer X",
+        "duration": "15:20",
+        "description": "Building a simple prototype using basic transitions and scroll"
+      },
+      {
+        "order": 5,
+        "title": "React Components in Framer X",
+        "duration": "29:06",
+        "description": "Building your first code component using npm libraries"
+      },
+      {
+        "order": 6,
+        "title": "Coding Animations and Overrides",
+        "duration": "22:27",
+        "description": "Building a page transition with events in Framer X"
+      },
+      {
+        "order": 7,
+        "title": "Designing with API Data",
+        "duration": "20:17",
+        "description": "Getting data from Unsplash and UINames for your Framer X component"
+      },
+      {
+        "order": 8,
+        "title": "Grid Code Component",
+        "duration": "17:54",
+        "description": "Building a dynamic and customizable grid layout in Framer X"
+      },
+      {
+        "order": 9,
+        "title": "Coding your Icon Library",
+        "duration": "16:24",
+        "description": "Building your own set of icons for your design system in Framer X"
+      },
+      {
+        "order": 10,
+        "title": "Design System and React Site",
+        "duration": "15:48",
+        "description": "Using your Framer X components in your design system"
+      }
+    ]
+  },
+  {
+    "name": "Flutter for Designers Part 2",
+    "description": "Continuing on from the previous Flutter for Designers course, this course has a heavier emphasis on using Firebase API's to combine Firebase and Flutter. There will be a lesser emphasis on creating front-end Flutter UI and more emphasis on how to build functional applications capable of being shipped to the App Store. A review of the previous course and the Dart programming language will be very helpful. That being said, you will also be introduced to some new Flutter widgets and packages.",
+    "category": "flutter",
+    "instructor":"Sai Kambampati",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Flutter for Designers Part 2",
+        "duration": "5:17",
+        "description": "Explore new Flutter widgets and learn about Firebase as you continue to build a cross-platform app"
+      },
+      {
+        "order": 2,
+        "title": "Reviewing Widgets",
+        "duration": "11:33",
+        "description": "Review the basics of Flutter widgets by creating the app's login screen"
+      },
+      {
+        "order": 3,
+        "title": "User Input",
+        "duration": "12:22",
+        "description": "Customize textfields and container widgets to detect user input"
+      },
+      {
+        "order": 4,
+        "title": "Flutter Interactions",
+        "duration": "6:17",
+        "description": "Use the GestureDetector Widget to create amazing user interactions"
+      },
+      {
+        "order": 5,
+        "title": "Firebase for Android",
+        "duration": "10:02",
+        "description": "Create your first Firebase Project and download Firebase plugins for Android"
+      },
+      {
+        "order": 6,
+        "title": "Firebase for iOS",
+        "duration": "10:13",
+        "description": "Configure the iOS project to use Firebase and meet the new FutureBuilder widget"
+      },
+      {
+        "order": 7,
+        "title": "Introduction to Firebase Authentication",
+        "duration": "15:19",
+        "description": "Build your own authentication system using Firebase Authentication"
+      },
+      {
+        "order": 8,
+        "title": "Sending Emails from Firebase",
+        "duration": "9:02",
+        "description": "Send user verification and password reset emails from Firebase"
+      },
+      {
+        "order": 9,
+        "title": "Dynamic Login with Firebase",
+        "duration": "6:10",
+        "description": "Detect authenticated users to choose the correct startup screen"
+      },
+      {
+        "order": 10,
+        "title": "Introduction to Cloud Firestore",
+        "duration": "9:29",
+        "description": "Learn about Firestore and the advantages of creating a database hosted on the cloud"
+      },
+      {
+        "order": 11,
+        "title": "Writing Data to Firestore",
+        "duration": "11:40",
+        "description": "Learn to save data to the Cloud Firestore database using Dart"
+      },
+      {
+        "order": 12,
+        "title": "Reading Data from Firestore",
+        "duration": "10:29",
+        "description": "Read data from Firestore to customize the Profile Screen"
+      },
+      {
+        "order": 13,
+        "title": "Updating Data in Firestore",
+        "duration": "12:25",
+        "description": "Allow users to update their profile and synchronize the changes to Firestore"
+      },
+      {
+        "order": 14,
+        "title": "Cloud Firestore Security Rules",
+        "duration": "13:51",
+        "description": "Secure your database in this thorough introduction to Cloud Firestore Security Rules"
+      },
+      {
+        "order": 15,
+        "title": "Populating Widgets from Firestore",
+        "duration": "10:21",
+        "description": "Transform data from Firestore into a custom class to help populate Flutter widgets"
+      },
+      {
+        "order": 16,
+        "title": "Reading Data from Multiple Collections",
+        "duration": "12:31",
+        "description": "Dynamically update your widgets' content by reading from several Firestore collections"
+      },
+      {
+        "order": 17,
+        "title": "Introduction to Firebase Storage",
+        "duration": "8:05",
+        "description": "Store and download your assets from Firebase Storage to reduce your app's installation size"
+      },
+      {
+        "order": 18,
+        "title": "Combining Firestore and Firebase Storage",
+        "duration": "8:48",
+        "description": "Start combining Firebase products to elevate your app's functionality"
+      },
+      {
+        "order": 19,
+        "title": "Accessing Files Through Flutter",
+        "duration": "12:46",
+        "description": "Gain access to a user's photo library on both Android and iOS"
+      },
+      {
+        "order": 20,
+        "title": "Uploading Files to Firebase Storage",
+        "duration": "12:42",
+        "description": "Upload files to Firebase Storage directly from the Flutter application"
+      }
+    ]
+  },
+  {
+    "name": "Learn Sketch",
+    "description": "Learn Sketch a design tool entirely vector-based and focused on user interface design",
+    "instructor": "Meng To",
+    "category": "sketch",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Learn Sketch",
+        "duration": "23:28",
+        "description": "Introduction to Sketch Basic Tools"
+      },
+      {
+        "order": 2,
+        "title": "Powerful Start in Sketch",
+        "duration": "22:49",
+        "description": "Strong Foundations for your Sketch Workflow"
+      },
+      {
+        "order": 3,
+        "title": "Design for iOS 11",
+        "duration": "31:30",
+        "description": "Designing an iOS App from scratch in Sketch"
+      },
+      {
+        "order": 4,
+        "title": "Design for iPhone X",
+        "duration": "28:23",
+        "description": "Designing and adapting for iPhone X in Sketch"
+      },
+      {
+        "order": 5,
+        "title": "Designing for iPad",
+        "duration": "11:36",
+        "description": "Designing an iPad app from Scratch"
+      },
+      {
+        "order": 6,
+        "title": "Design for Web",
+        "duration": "25:12",
+        "description": "Designing a Website from Scratch"
+      },
+      {
+        "order": 7,
+        "title": "Design for Web Part 2",
+        "duration": "25:11",
+        "description": "Designing a Website from Scratch 2"
+      },
+      {
+        "order": 8,
+        "title": "Tricks and Keyboard Shortcuts",
+        "duration": "20:43",
+        "description": "Boost your productivity in Sketch"
+      },
+      {
+        "order": 9,
+        "title": "Sketch Plugins",
+        "duration": "12:09",
+        "description": "Essential Sketch Plugins for Designers and Developers"
+      },
+      {
+        "order": 10,
+        "title": "Nested Symbols",
+        "duration": "9:14",
+        "description": "Design with More Flexibility by Nesting Symbols"
+      },
+      {
+        "order": 11,
+        "title": "Sketch Libraries",
+        "duration": "7:00",
+        "description": "Share Symbols with Other Designers"
+      },
+      {
+        "order": 12,
+        "title": "Version Control",
+        "duration": "18:53",
+        "description": "The Github for Designers"
+      },
+      {
+        "order": 13,
+        "title": "Working with Data",
+        "duration": "10:29",
+        "description": "Make your design meaningful with real content"
+      },
+      {
+        "order": 14,
+        "title": "Adaptive Layouts",
+        "duration": "7:33",
+        "description": "Working with Multiple Resolutions"
+      },
+      {
+        "order": 15,
+        "title": "Working with Vector",
+        "duration": "20:12",
+        "description": "Vector Techniques in Sketch"
+      },
+      {
+        "order": 16,
+        "title": "Exporting Assets",
+        "duration": "13:44",
+        "description": "Delivering Assets to Multiple Devices in Sketch"
+      },
+      {
+        "order": 17,
+        "title": "Styleguide and Handoff",
+        "duration": "9:11",
+        "description": "Consistent design language in your team"
+      },
+      {
+        "order": 18,
+        "title": "Advanced Techniques",
+        "duration": "12:40",
+        "description": "Master Sketch with these Tricks"
+      },
+      {
+        "order": 19,
+        "title": "Intro to Framer",
+        "duration": "27:51",
+        "description": "Design and Code animations with Framer"
+      },
+      {
+        "order": 20,
+        "title": "Previewing and Sharing",
+        "duration": "7:22",
+        "description": "Test drive on your devices"
+      },
+      {
+        "order": 21,
+        "title": "Prototyping in Keynote",
+        "duration": "3:33",
+        "description": "Prototyping in Keynote Using Magic Move"
+      }
+    ]
+  },
+  {
+    "name": "Create a Promo Video in After Effects",
+    "description": "In this course we will show you how to create a promo video using After Effects.",
+    "instructor": "Daniel Nisttahuz",
+    "category": "after-effects",
+    "videos": [
+      {
+        "order": 1,
+        "title": "3D Camera Angles",
+        "duration": "23:04",
+        "description": "A step-by-step guide to set 3D perspective camera angles to your videos."
+      },
+      {
+        "order": 2,
+        "title": "Collage Grids",
+        "duration": "11:03",
+        "description": "Create a visual cloning effect displaying multiple scenes in one screen."
+      },
+      {
+        "order": 3,
+        "title": "Text Animations",
+        "duration": "14:06",
+        "description": "Create dynamic and smooth titles animations"
+      },
+      {
+        "order": 4,
+        "title": "Advanced Text Animation",
+        "duration": "11:19",
+        "description": "Build a slot machine and a 3D text animations"
+      },
+      {
+        "order": 5,
+        "title": "Masking Techniques Part1",
+        "duration": "17:15",
+        "description": "Create a mask for the iPhone and add a venetian blind effect to the background."
+      },
+      {
+        "order": 6,
+        "title": "Masking Techniques Part2",
+        "duration": "9:22",
+        "description": "Working with the venetian-blind effect in shapes and adding masks to the videos"
+      },
+      {
+        "order": 7,
+        "title": "Animated Backgrounds",
+        "duration": "8:26",
+        "description": "Animated shapes to create a background animation."
+      },
+      {
+        "order": 8,
+        "title": "Strobe effect",
+        "duration": "13:24",
+        "description": "Generate a stroboscopic effect for background animations."
+      },
+      {
+        "order": 9,
+        "title": "Export your assets from a Design Tool to AE",
+        "duration": "15:46",
+        "description": "Export your assets from Sketch, Figma or Adobe Xd to After Effects."
+      },
+      {
+        "order": 10,
+        "title": "Extrusion Depth",
+        "duration": "11:27",
+        "description": "Extrude 2D shapes into 3D assets using the C4D Render"
+      },
+      {
+        "order": 11,
+        "title": "Animated Shape Burst",
+        "duration": "8:07",
+        "description": "Build a burst animation using basic shapes"
+      },
+      {
+        "order": 12,
+        "title": "Dynamic Shape Animation",
+        "duration": "7:33",
+        "description": "Using parenting to create advanced shape animations"
+      }
+    ]
+  },
+  {
+    "name": "React for Designers",
+    "description": "Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify.",
+    "instructor": "Meng To",
+    "category": "react",
+    "videos": [
+      {
+        "order": 1,
+        "title": "React for Designers",
+        "duration": "21:59",
+        "description": "Learn to design and code a Website using React"
+      },
+      {
+        "order": 2,
+        "title": "Basic Styling with CSS",
+        "duration": "24:23",
+        "description": "Creating your first design using basic HTML and CSS"
+      },
+      {
+        "order": 3,
+        "title": "Adaptive Layouts with CSS Grid",
+        "duration": "22:18",
+        "description": "Design a page that adapts to any screen size"
+      },
+      {
+        "order": 4,
+        "title": "Interactions and Animations",
+        "duration": "12:48",
+        "description": "Timeline-based animation using keyframes"
+      },
+      {
+        "order": 5,
+        "title": "SVG Animation",
+        "duration": "14:12",
+        "description": "Morph vector shapes using SVG code"
+      },
+      {
+        "order": 6,
+        "title": "Components and Props",
+        "duration": "20:27",
+        "description": "Create a reusable layout element using React"
+      },
+      {
+        "order": 7,
+        "title": "States and Events",
+        "duration": "9:25",
+        "description": "Add scroll interactions to your React site"
+      },
+      {
+        "order": 8,
+        "title": "Styled Components",
+        "duration": "18:09",
+        "description": "Take your CSS to the next level"
+      },
+      {
+        "order": 9,
+        "title": "Static Data with JSON",
+        "duration": "16:45",
+        "description": "Add basic data to your app"
+      },
+      {
+        "order": 10,
+        "title": "GraphQL with Contentful",
+        "duration": "28:38",
+        "description": "Adding dynamic data that can be updated outside of the site"
+      },
+      {
+        "order": 11,
+        "title": "Publish to Netlify",
+        "duration": "6:47",
+        "description": "Deploy your site for everyone to see"
+      },
+      {
+        "order": 12,
+        "title": "Payments with Stripe",
+        "duration": "15:18",
+        "description": "Start selling your product easily and efficiently"
+      }
+    ]
+  },
+  {
+    "name": "CSS Layout and Animations",
+    "description": "Build out a UI prototype in CodePen using CSS Grid and Flexbox. Learn how to bring life to your UI by adding CSS transforms and transformations. We will dive even more in to CSS animations with the CSS animation property and keyframes rule. We’ll wrap it all up by making our prototype responsive and checking out even more cool features on CodePen.",
+    "instructor": "Christina Gorton",
+    "category": "design",
+    "videos": [
+      {
+        "order": 1,
+        "title": "CSS Layout and Animations",
+        "duration": "6:16",
+        "description": "Prototyping with CSS Grid, Flexbox and CSS animations in CodePen"
+      },
+      {
+        "order": 2,
+        "title": "CSS Grid and Flexbox",
+        "duration": "16:36",
+        "description": "Understanding when to use Grid and Flexbox"
+      },
+      {
+        "order": 3,
+        "title": "Layout with Grid Template Areas",
+        "duration": "21:33",
+        "description": "Explore How to Layout a Design by Naming Areas"
+      },
+      {
+        "order": 4,
+        "title": "Intro to CSS Transforms and Transitions",
+        "duration": "166:39",
+        "description": "Explore the Basis of CSS Animations with Transforms and Transitions"
+      },
+      {
+        "order": 5,
+        "title": "Complex Layout with Grid Part 1",
+        "duration": "12:42",
+        "description": "Start Laying Out Our Complex Layout with Grid-template-rows and columns"
+      },
+      {
+        "order": 6,
+        "title": "Complex Layout with Grid Part 2",
+        "duration": "14:35",
+        "description": "Part 2 of Laying Out Our Design with CSS Grid"
+      },
+      {
+        "order": 7,
+        "title": "Keyframe Animations",
+        "duration": "13:55",
+        "description": "Explore Timeline-based Animation Using Keyframes"
+      },
+      {
+        "order": 8,
+        "title": "Making it Responsive",
+        "duration": "16:02",
+        "description": "Learn to Combine Responsive and Adaptive Design"
+      },
+      {
+        "order": 9,
+        "title": "Wrapping it all Up",
+        "duration": "6:11",
+        "description": "See How to Show Off Your Project on CodePen"
+      }
+    ]
+  },
+  {
+    "name": "Swift Advanced",
+    "description": "Learn Swift a robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV and Apple Watch",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Tab Bar",
+        "duration": "22:13",
+        "description": "Flat navigation using a bottom bar"
+      },
+      {
+        "order": 2,
+        "title": "Navigation Bar",
+        "duration": "19:42",
+        "description": "The anchor of the layout"
+      },
+      {
+        "order": 3,
+        "title": "Table View Controller",
+        "duration": "22:47",
+        "description": "Contacts, messages, bookmarks and all other vertical data"
+      },
+      {
+        "order": 4,
+        "title": "Web View Controller",
+        "duration": "21:15",
+        "description": "Display and control web content without leaving the app"
+      },
+      {
+        "order": 5,
+        "title": "Default Transitions",
+        "duration": "28:07",
+        "description": "Add an animation between your screens"
+      },
+      {
+        "order": 6,
+        "title": "Custom Transitions",
+        "duration": "26:10",
+        "description": "Create a seamless animation from one screen to another"
+      },
+      {
+        "order": 7,
+        "title": "Gesture Interactions",
+        "duration": "49:24",
+        "description": "Interface that follows your finger"
+      },
+      {
+        "order": 8,
+        "title": "CocoaPods",
+        "duration": "35:17",
+        "description": "Dependency manager for your Xcode projects"
+      },
+      {
+        "order": 9,
+        "title": "Keyboard Interactions",
+        "duration": "27:47",
+        "description": "Coordinating avoidance, appearance, and style"
+      },
+      {
+        "order": 10,
+        "title": "Progress Rings",
+        "duration": "43:55",
+        "description": "Using third-party components and core animation"
+      },
+      {
+        "order": 11,
+        "title": "Delegation",
+        "duration": "30:12",
+        "description": "One object acting on behalf of another"
+      },
+      {
+        "order": 12,
+        "title": "Multiple Storyboards",
+        "duration": "38:43",
+        "description": "Divide and conquer"
+      },
+      {
+        "order": 13,
+        "title": "Dynamic Type",
+        "duration": "22:23",
+        "description": "Accessibility made easy"
+      },
+      {
+        "order": 14,
+        "title": "Implementing Dark Mode",
+        "duration": "25:49",
+        "description": "Automatically turn off the lights"
+      },
+      {
+        "order": 15,
+        "title": "JSON Parsing",
+        "duration": "21:13",
+        "description": "Your data in an interchange format"
+      },
+      {
+        "order": 16,
+        "title": "Core Data",
+        "duration": "38:16",
+        "description": "Persist your data using the built-in framework"
+      },
+      {
+        "order": 17,
+        "title": "Realm",
+        "duration": "28:29",
+        "description": "A simpler, cross-platform database"
+      },
+      {
+        "order": 18,
+        "title": "Networking Images and HTML",
+        "duration": "41:20",
+        "description": "Loading Images and HTML content asynchronously"
+      },
+      {
+        "order": 19,
+        "title": "Implementing Search",
+        "duration": "30:04",
+        "description": "Filtering data"
+      },
+      {
+        "order": 20,
+        "title": "Posting and Storing Data",
+        "duration": "31:48",
+        "description": "Interfacing with REST APIs using URL Session"
+      },
+      {
+        "order": 21,
+        "title": "TestFlight",
+        "duration": "",
+        "description": "Distribute your app to beta testers"
+      },
+      {
+        "order": 22,
+        "title": "Publish to the App Store",
+        "duration": "",
+        "description": "Working with iTunes Connect to get your app out there"
+      }
+    ]
+  },
+  {
+    "name": "Build an app with SwiftUI Part 2",
+    "description": "This course was written for designers and developers who are passionate about design and about building real apps for iOS, iPadOS, macOS, tvOS and watchOS. SwiftUI works across all of those platforms. While the code is not a one-size-fits-all, the controls and techniques involved can apply to all platforms. It is beginner-friendly, but it is also packed with design tricks and cool workflows about building the best UIs and interactions.",
+    "instructor": "Meng To",
+    "category": "swift",
+    "videos": [
+      {
+        "order": 1,
+        "title": "Ring Progress Circle",
+        "duration": "13:06",
+        "description": "Create an Apple Watch-like using trim, stroke and rotation"
+      },
+      {
+        "order": 2,
+        "title": "Ring Component and Formula",
+        "duration": "9:11",
+        "description": "Create a customizable and animated Ring Subview"
+      },
+      {
+        "order": 3,
+        "title": "Ring Animation",
+        "duration": "13:09",
+        "description": "Implement and bind the Ring component with animation"
+      },
+      {
+        "order": 4,
+        "title": "Custom Fonts and Modifiers",
+        "duration": "15:12",
+        "description": "Reuse custom modifiers and import your own fonts to Xcode."
+      },
+      {
+        "order": 5,
+        "title": "If Show View and Transition",
+        "duration": "18:25",
+        "description": "Make a view appear using an if statement and add an in / out animation"
+      },
+      {
+        "order": 6,
+        "title": "Custom Transition",
+        "duration": "10:19",
+        "description": "Create a fully custom animation to full screen using animation states"
+      },
+      {
+        "order": 7,
+        "title": "Stacked Cards Animation",
+        "duration": "8:20",
+        "description": "Animate new content underneath the main card"
+      },
+      {
+        "order": 8,
+        "title": "Transition with Scroll",
+        "duration": "9:01",
+        "description": "Detect the scroll position with GeometryReader and animate the offset"
+      },
+      {
+        "order": 9,
+        "title": "Animation States Array",
+        "duration": "11:43",
+        "description": "Get the state from individual items inside an array by using the index"
+      },
+      {
+        "order": 10,
+        "title": "Z Index and Status Bar",
+        "duration": "6:11",
+        "description": "Learn to use the zIndex modifier and animate the background"
+      },
+      {
+        "order": 11,
+        "title": "Passing Index to Cards",
+        "duration": "7:23",
+        "description": "Animate active and inactive items inside a loop by using the index"
+      },
+      {
+        "order": 12,
+        "title": "Dismiss Gesture with Scale",
+        "duration": "14:13",
+        "description": "Add scale effect, 3D rotation and Hue to your dismiss gesture"
+      },
+      {
+        "order": 13,
+        "title": "Dynamic New View",
+        "duration": "10:59",
+        "description": "Add a new screen with scrollable content on top of an existing card animation"
+      },
+      {
+        "order": 14,
+        "title": "API and JSON",
+        "duration": "14:56",
+        "description": "Make a List UI using API data and use the onAppear modifier"
+      },
+      {
+        "order": 15,
+        "title": "API and Combine",
+        "duration": "7:17",
+        "description": "Make your API data observable with Combine"
+      },
+      {
+        "order": 16,
+        "title": "SPM and Contentful",
+        "duration": "8:26",
+        "description": "Use the built-in Swift Package Manager and the Contentful library to pull dynamic data from a CMS"
+      },
+      {
+        "order": 17,
+        "title": "Contentful and Combine",
+        "duration": "13:37",
+        "description": "Connect your API data from the Contentful CMS to Combine"
+      },
+      {
+        "order": 18,
+        "title": "URL Images",
+        "duration": "9:30",
+        "description": "Load images from the web asynchronously using the SDWebImageSwiftUI library"
+      },
+      {
+        "order": 19,
+        "title": "Background Blur",
+        "duration": "10:57",
+        "description": "Create a blurred background for your menu and screens"
+      },
+      {
+        "order": 20,
+        "title": "Dark Mode and Accessibility",
+        "duration": "16:44",
+        "description": "How to develop for dark mode and accessibility options in SwiftUI"
+      }
+    ]
+  }
+]
