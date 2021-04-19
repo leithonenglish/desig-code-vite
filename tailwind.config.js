@@ -8,7 +8,8 @@ module.exports = {
         '7-auto': 'repeat(7, auto)'
       },
       colors: {
-        'port-gore': '#191842'
+        'port-gore': '#191842',
+        'lucky-point': '#1e1357'
       },
       fontSize: {
         '15': '15px',
